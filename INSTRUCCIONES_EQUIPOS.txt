@@ -17,7 +17,7 @@ INSTRUCCIONES GENERALES PARA TODOS:
 ESTUDIANTE 1: El Guerrero Aliado (Herencia simple)
 - Crea una nueva clase llamada 'Jukumari.cs'.
 - Haz que herede de la clase abstracta 'SerMitologico'.
-- En el constructor de la clase, asígnale el Nombre = "c" y Vida = 200.
+- En el constructor de la clase, asígnale el Nombre = "Oso Jukumari" y Vida = 200.
 - El IDE te pedirá que implementes el método abstracto. Usa 'override' en el método Atacar() para que imprima en consola: "El Jukumari da un zarpazo brutal!".
 
 ESTUDIANTE 2: El Enemigo (Herencia + 1 Interfaz)
